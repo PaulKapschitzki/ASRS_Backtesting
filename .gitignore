@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# custom ignores
+.gitignore
+data/GER40_M1.csv
+data/DEU.IDXEUR_Candlestick_1_M_BID_04.12.2023-30.12.2025.csv
